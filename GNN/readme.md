@@ -1,5 +1,7 @@
 ## The code is a realization of algorithms in the paper https://www.overleaf.com/project/600f001306a40f7b3a1ef8a4
 
+### Data WT A171T D183A Triple could be downloaded  in https://rutgers.box.com/s/rxt0y7evsx7k0wlp16gueh0f7cvypin5
+
 ### Reproduce the result of model GCN on dataset WT, A171T, D183A, Triple
 ```
 python3 graph-classification_gcn.py
