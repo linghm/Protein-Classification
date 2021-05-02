@@ -2,6 +2,8 @@
 
 ### Data WT A171T D183A Triple could be downloaded  in https://rutgers.box.com/s/rxt0y7evsx7k0wlp16gueh0f7cvypin5
 
+### DATA BBBP could be downloaded in https://github.com/gmum/geo-gcn
+
 ### Reproduce the result of model GCN on dataset WT, A171T, D183A, Triple
 ```
 python3 graph-classification_gcn.py
