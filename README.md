@@ -2,4 +2,4 @@
 
 ## Folder GNN contains the code.
 
-## Folder Referrences contains the related papers.
+## Folder References contains the related papers.
