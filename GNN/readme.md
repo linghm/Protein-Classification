@@ -18,5 +18,5 @@ python3 graph_classification_newdata.py
 ```
 ### Reproduce the result of model GCN with CEGCLs on dataset BBBP
 ```
-gcn_geom_newdata.py
+python3 gcn_geom_newdata.py
 ```
